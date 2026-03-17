@@ -21,37 +21,43 @@ Sistema más seguro y con menor superficie de ataque.
 
 ## Herramientas
 
-auto_updates.sh
+### auto_updates.sh
 Actualiza el sistema e instala actualizaciones automáticas.
-![Captura de actualizacion](images/image-5.png)
+![Captura de actualizacion](https://i.imgur.com/Y5Y6yzf.png)
 
-fail2ban.sh
+### fail2ban.sh
 Protege contra ataques de fuerza bruta. Fail2Ban monitoriza los logs del sistema y bloquea automáticamente direcciones IP que realizan múltiples intentos fallidos de autenticación, mitigando ataques de fuerza bruta.
-![Captura de fail2ban](images/image-8.png)
+![Captura de fail2ban](https://i.imgur.com/R2t8eJk.png)
 
-firewall.sh
+### firewall.sh
 Configura firewall con UFW.
-![Caputura de configuracion del Firewall](images/image-1.png)
+<br>
+![Caputura de configuracion del Firewall](https://i.imgur.com/wxX3OKm.png)
 
-hardening_ssh.sh
+### hardening_ssh.sh
 Desactiva login root y autenticación por contraseña.
-![Captura de hardening de ssh](images/image.png)
+<br>
+![Captura de hardening de ssh](https://i.imgur.com/9Sypwjs.png)
 
-permissions.sh
+### permissions.sh
 Detecta archivos con permisos inseguros.
-![Captura de permisos](images/image-4.png)
+<br>
+![Captura de permisos](https://i.imgur.com/bvwmDHQ.png)
 
-open_ports.sh
+### open_ports.sh
 Lista puertos abiertos del sistema.
-![Captura de los puertos abiertos](images/image-3.png)
+<br>
+![Captura de los puertos abiertos](https://i.imgur.com/jQaLLzh.png)
 
-services.sh
+### services.sh
 Desactiva servicios innecesarios.
-![Captura de desactivar servicios](images/image-6.png)
+<br>
+![Captura de desactivar servicios](https://i.imgur.com/6YjPNdw.png)
 
-hardening_kernel.sh
+### hardening_kernel.sh
 Aplica configuraciones de seguridad del kernel.
-![Captura de configuracion del kernel](images/image-7.png)
+<br>
+![Captura de configuracion del kernel](https://i.imgur.com/SJCCwbS.png)
 
 ## Instalación
 
