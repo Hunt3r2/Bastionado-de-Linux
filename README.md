@@ -117,8 +117,6 @@ El toolkit está desarrollado en Bash y utiliza herramientas nativas de Linux co
 - find para auditoría de permisos
 - ss para análisis de puertos
 
-Se implementa validación de errores y comprobación de dependencias para garantizar su funcionamiento en distintos entornos.
-
 ## Limitaciones
 
 - Algunos servicios pueden no estar instalados en todos los sistemas
