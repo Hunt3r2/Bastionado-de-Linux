@@ -100,13 +100,6 @@ Selecciona una opción: 7
 
 ```
 
-### Extra
-
-Como extra, se añadió un pequeño script para windows que desactiva servicios inseguros
-
-- disable_services.ps1
-  - Desactiva servicios inseguros
-
 ## Descripción técnica
 
 El toolkit está desarrollado en Bash y utiliza herramientas nativas de Linux como:
